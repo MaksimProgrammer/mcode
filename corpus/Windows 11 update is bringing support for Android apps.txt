@@ -1,0 +1,13 @@
+Microsoft is preparing its first major Windows 11 update. According to a new blog by Panos Panay, the Chief Product Officer for Windows, development is ahead of schedule, indicating that the update could come sooner than the originally planned mid-2022. Alongside various UI tweaks, refinements and features, perhaps the most anticipated feature is the inclusion of support for Android apps. 
+
+Being able to run Android apps from within Windows is a pretty big deal. Both Chrome OS and macOS already have the feature, yet it was still a surprise when Microsoft announced it was adding support. Android app support is available via the insider channel but the public preview is a big step on the road to its formal release. Microsoft is planning to launch a public preview of its Android apps for Windows 11 in February.
+
+Interestingly, Google itself is working on an app that will allow you to play both emulated and natively Android games on your PC for the first time.
+
+Other new features coming to the update include the return of Microsoft’s taskbar weather widget. The taskbar itself will get tweaked and the important Notepad and Media Player apps will get upgrades. 
+
+With the explosion in work from home apps such as Slack and Zoom along with Microsoft’s own Teams app, The Windows update will include a simple taskbar function that allows you to share your screen to remote users.
+
+Panay talked about how great he thinks Windows is, as you’d expect from one of its leads, but he presented some stats too. He claims that users are upgrading from Windows 10 to 11 at twice the rate of Windows 8 to 10. He also says that user feedback and product satisfaction is as high as it’s been for any version of Windows.
+
+The release date of the update hasn’t yet been revealed but even with Panos Pinay's optimism, it’s likely still several months away.

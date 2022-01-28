@@ -1,0 +1,15 @@
+And it's unlike anything we've seen before.
+
+Researchers at the International Centre for Radio Astronomy Research (ICRAR) have found a mysterious object in space that has been sending out radio waves approximately three times an hour, according to an institutional press release. The object was first spotted in March 2018 and has been observed ever since to understand its origins.
+
+Celestial objects that send out pulsing waves are quite a regular observation for an astronomer. Called transients, these objects either take months to disappear or can quickly flash off in a matter of seconds or even milliseconds, Dr. Gemma Anderson, an astrophysicist at ICRAR said in the press release. In the case of this object though, the repeating sequence of pulses is a bit strange.
+
+The observation was made using the Murchison Widefield Array (MWA) set up in Western Australia that consists of 4,096 small spider-like low-frequency antennas arranged in 256 grids. This gives the radio telescope a very wide field of view and frequency range, its website states. The MWA is the precursor to the Square Kilometer Array (SKA) that is being built through international collaboration and will be the world's largest radio telescope.
+
+The object spotted by the researchers is incredibly bright but smaller than our Sun. The highly polarised signals received from it suggest that it has a strong magnetic field around it. Dr. Natasha Hurley-Walker, an astrophysicist at Curtin University who led the discovery, said that the object could be a magnetar - a slowly spinning neutron star that has only had theoretical existence so far. Her team is now monitoring the object to see if it turns back on again.
+
+The object has been dubbed GLEAM-X J162759.5-523504.3 and is located about 4000 light-years away from the Earth, New Scientist reported. Hurley-Walker called its location our "galactic backyard" and is confident that it isn't aliens, since the signal consists of a wide range of frequencies and is not artificial.
+
+The data from the MWA is transmitted to the Pawsey Supercomputing Center in Perth for long-term storage and the researchers can comb through the historic data collected over the past decade to find similar instances of other objects pulsing radio waves in this fashion.
+
+Details of the finding can be found in the journal Nature.
